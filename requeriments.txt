@@ -1,0 +1,5 @@
+Seaborn version: 0.13.2
+Matplotlib version: 3.7.1
+Pandas version: 2.2.2
+Numpy version: 1.26.4
+Sklearn version: 1.5.1
